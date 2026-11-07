@@ -1,0 +1,8 @@
+{
+    "name":"John",
+    "carNumber":"231232123212",
+    "CVC":"323",
+    "expiryMonth":"12",
+    "expiryYear":"2030",
+    "orderMessage":"Congratulations! Your order has been confirmed!"
+}
